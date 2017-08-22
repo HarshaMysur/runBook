@@ -33,6 +33,8 @@ Devops:
 I have automated the deployment of all the servers by wriring Dockerfile for each of the servers in its respective folders.
 Then I have scripted the docker-compose.yml to have these servers up and running in specific ports.
 
+I have used SSHKey to deploy the project into github.
+
 Folder-Structure:
 
 --Dock
